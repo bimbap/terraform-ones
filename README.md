@@ -1,3 +1,2 @@
 # Terraform Learn Archive
-
-> This repo just for education notes.
+This repository is intended for educational purposes only
